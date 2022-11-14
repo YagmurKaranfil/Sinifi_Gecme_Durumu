@@ -1,6 +1,9 @@
 # Sinifi_Gecme_Durumu
 
 ###### Aşağıda verilen derslerle bir öğrencinin sınıfı geçip geçmediği kontrol edilmektedir.
+
+www.patika.dev
+
 Dersler : Matematik, Fizik, Türkçe, Kimya, Müzik
 
 Geçme Notu : 55
